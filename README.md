@@ -1,7 +1,7 @@
 # MeuSistemaWeb
 
 # Título do projeto
-Meu Sistema agenda de psico
+Meu Sistema agenda de psicologo
 
 # Status do projeto
 Em desenvolvimento
